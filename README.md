@@ -14,7 +14,7 @@ A data enthusiast and IT professional with a knack for turning complex data puzz
 - 💡 Always curious, constantly learning, and occasionally making puns about my datasets.
 
 ## My Journey
-From collaborating with global teams at KPMG's to refine data pipelines, to applying NLP in projects for better credit assessments, I've tackled diverse challenges head-on. At Capacit's, I ensured smoother workflows in Team to get desired outputs within given times for the Public Works Departments and JJ Hospital, Mumbai.
+From collaborating with global teams at KPMG's to refine data pipelines, to applying NLP in projects for better credit assessments, I've tackled diverse challenges head-on. At Capacit's, I ensured smoother workflows in Team to get desired outputs within given time for the Public Works Department and JJ Hospital, Mumbai.
 
 ## What I Bring to the Table
 - **Data Magic**: Skilled in transforming raw data into actionable insights.
