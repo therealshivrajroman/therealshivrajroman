@@ -27,4 +27,4 @@ I'm actively seeking opportunities to apply and expand my skills. If you're look
 - Linkedln: www.linkedin.com/in/shivrajroman
 - Gmail: shivrajroman@gmail.com
 ---
-Remember, while data is my superpower, humor is my secret weapon. Thanks for stopping 
+Remember, while data is my superpower, humor is my secret weapon. Thanks for stopping by!
